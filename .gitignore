@@ -1,0 +1,19 @@
+# Trained model weights
+*.mat
+models/
+
+# MNIST data (large)
+MNIST/
+data/
+
+# Test images (optional: ignore or commit a few samples)
+# images/*.jpg
+# images/*.png
+
+# macOS
+.DS_Store
+
+# MATLAB
+*.m~
+*.asv
+*.autosave
